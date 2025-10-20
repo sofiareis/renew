@@ -1,5 +1,5 @@
-# ✿ Renew ✿
-In light of the war in Ukraine in 2022, millions of Ukrainians have fled to neighboring countries into a frightening and uncertain future. Renew is meant to help refugees in similar situations as they navigate life in a new, unfamiliar country.
+# Renew
+A mobile app meant to help refugees as they navigate life in a new and unfamiliar country.
 
 Submitted to NwPlus cmd-f Hackathon 2022  
 
@@ -10,10 +10,7 @@ Submitted to NwPlus cmd-f Hackathon 2022
 * UBC - Project Incubation Prize
 * SAP - Most Coherent UX/UI Design Using the UI5 SDK and/or Web Components
 
-# 🏠 What it does?
-The app name was chosen to represent the fact that it helps refugees as they start a new life in a new country, hence, renew. The app features a community function where users are grouped into communities based on where they came from and where they have immigrated to. Within these communities, users can post and comment about any questions or resources for users to learn from each other. Additionally, there is a map feature that filters for nearby food banks, hospitals, and areas with recent criminal activity.
-
-# 💻 Technologies
+## Technologies
 
 - Figma (UI/UX design)
 - React Native and Android Studio (interactive interface) 
@@ -22,8 +19,13 @@ The app name was chosen to represent the fact that it helps refugees as they sta
 - Firebase (cloud storage)
 - Google Maps API
 
-# ✨ What's next for renew ?
+## Inspiration
+With a growing number of conflicts worldwide, tens of millions of refugees are being forced to abandon their home countries in search of safety, being thrown into a deeply frightening and uncertain future. Renew is meant to help refugees in these situations as they navigate life in a new and unfamiliar country.
 
+## What it does
+"Renew" is a community-based app where users can find a support network with individuals from their country of origin, wherever they may find themselves. Within these communities users can connect, post, and comment questions or resources. Additionally, there is a map feature that filters for nearby food banks, hospitals, and unsafe areas.
+
+# What's next for renew ?
 Our team hopes to implement the following features for Renew:
 - Language: View the entire app in your native language
 - Financing: Helpful resources to help you get started on managing your finances
